@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **kevinvong0129@gmail.com**
 
-- ⚡ Fun fact **I do powerlifting as a hobby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
