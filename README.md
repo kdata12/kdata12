@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">I build stuff</h3>
 
-- 🔭 I’m currently working on [gitlet](https://github.com/kdata12/sp21-s00)
-
-- 🌱 I’m currently learning **React, Node.js, Springboot**
 
 - 📫 How to reach me **kevinvong0129@gmail.com**
 
